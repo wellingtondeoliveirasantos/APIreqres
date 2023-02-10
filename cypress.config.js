@@ -5,6 +5,7 @@ module.exports = defineConfig({
     env: {
       API_URL: 'https://reqres.in',
     },
+    experimentalRunAllSpecs: true,
   },
   fixturesFolder: false,
 })
