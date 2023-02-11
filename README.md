@@ -1,5 +1,5 @@
 # APIreqres
-## Linguagem utilizada no projeto: JavaScritp.
+## Linguagem utilizada no projeto: JavaScript.
 ### Criado Automação da API cuja documentação está descrita em (https://reqres.in/)
 
 ### Pré-requisitos
