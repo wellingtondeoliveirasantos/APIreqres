@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/wellingtondeoliveirasantos/APIreqres#readme",
   "devDependencies": {
-    "cypress": "^12.5.1",
+    "cypress": "^13.6.4",
     "cypress-plugin-api": "^2.10.3"
   }
 }
